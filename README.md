@@ -10,3 +10,8 @@ EXISTING PROOFS (I HAVN'T VERIFIED YET):
   - This proof looks promising but is much too complicated (long) for such a simple and elegant problem IMHO.
 - https://www.researchgate.net/publication/296682209_Proof_of_the_Collatz_conjecture
   - This "proof" is probabilistic and not absolute. IMO not a full proof.
+
+EXISTING ANTI-PROOF(S):
+- https://arxiv.org/PS_cache/math/pdf/0312/0312309v19.pdf
+  - This one sounds sane, but I just may use the word (math concept) infinity or recursion to circumvent the "hindering" claim that "any proof of the Collatz 3n + 1 Conjecture must have an infinite number of lines; therefore, no formal proof is
+possible"... so I am not impressed by this work.
