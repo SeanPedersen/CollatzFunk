@@ -1,6 +1,8 @@
 # CollatzFunk
 Analyzium of the Collatz Funk
 
+Link to the WiP Document: https://docs.google.com/document/d/1bdXMo6xVy2eCcwWPizfwTtOO3efQmYD59jY_5Ta3pLA
+
 MY (Sean M. PEDERSEN) proofs for the Collatz conjecture are in the PDF file. For any questions contact me on Twitter.
 
 EXISTING PROOFS (I HAVN'T VERIFIED YET):
